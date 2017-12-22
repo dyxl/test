@@ -7,6 +7,6 @@ public class Test {
         System.out.println("Hello maven");
         Class.forName("com.mysql.jdbc.Driver");
 
-        System.out.println("中文");
+        System.out.println("中文，嘿嘿嘿");
     }
 }
